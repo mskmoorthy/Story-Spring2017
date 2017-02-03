@@ -4,3 +4,5 @@ famous speech you are referencing by searching the web. It can be used to help p
 Project idea: program that prints money
 
 Nick's Project idea: A robot that loves
+
+Jarod Project Idea: a speech recognition project that will be both fun and usefull for studying famous quotes or impressing friends.
