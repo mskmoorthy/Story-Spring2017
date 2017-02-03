@@ -3,4 +3,4 @@ famous speech you are referencing by searching the web. It can be used to help p
 
 Project idea: program that prints money
 
-Project idea: A robot that loves
+Nick's Project idea: A robot that loves
